@@ -1,0 +1,11 @@
+{
+  "functions": {
+    "targets": [
+      "Rest"
+    ],
+    "ignore": [
+      ".output"
+    ],
+    "source": "functions"
+  }
+}
